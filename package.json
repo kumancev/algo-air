@@ -1,0 +1,11 @@
+{
+  "name": "algo-air",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "blockly": "github:google/blockly"
+  },
+  "author": "kumancev"
+}
