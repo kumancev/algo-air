@@ -21,7 +21,7 @@
 - ## `BEGINNERS' FOREST` 🌲 - Designed for beginners
 - ## `PROGRAMMERS' FARM` 🚜 - Designed for beginners
 - ## `RECURSIVE VOLCANO` 🌋 - Designed for advanced students and teachers
-- ## `IMPOSSIBLE OCEAN` 🐳 - Not even teachers can solve this😎
+- ## `IMPOSSIBLE OCEAN` 🐳 - Not even teachers can solve this 😎
 
 <br>
 
